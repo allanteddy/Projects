@@ -1,2 +1,2 @@
 # Projects
-list of some coding projects i have tried
+list of coding samples i have trained on . this is using OOP in data structures
